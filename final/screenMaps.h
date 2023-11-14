@@ -1,0 +1,7 @@
+#include "instructionScreen.h"
+#include "instructionScreen2.h"
+#include "instructionScreen3.h"
+#include "startScreen.h"
+#include "pauseScreen.h"
+#include "loseScreen.h"
+#include "winScreen.h"
